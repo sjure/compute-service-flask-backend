@@ -1,0 +1,11 @@
+{
+  "diagram-bar": {
+    "fullName": "Bar Diagram",
+    "id": "diagram-bar",
+    "strategy": "MakeBarDiagram",
+    "fields": [
+      "file",
+      "text"
+    ]
+  }
+}
